@@ -1,5 +1,5 @@
 # Introduction
-My name is Mohit Shah and I'm doing **app development** since june 2019. Love to learn new things.
+My name is Mohit Shah. Love to learn new things and accept challenges. Result driven and hard working student. Currently, pursuing my B.tech degree from LNMIIT, jaipur enrolled in Computer Science and Engineering. I'm in 3rd year of the degree. Have keen interest in app development. I already have developed 4-5 apps.
 # Technical skills
 * Android and android jetpack
 * Java
