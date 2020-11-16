@@ -10,4 +10,5 @@ My name is Mohit Shah. Love to learn new things and accept challenges. Result dr
 * C
 * Python and it's frameworks
 # Social Media
-* [LinkedIn Profile](https://www.linkedin.com/in/mohit-shah-2b1251176/)
+* [LinkedIn](https://www.linkedin.com/in/mohit-shah-2b1251176/)
+* [Codechef](https://www.codechef.com/users/mohit3999)
